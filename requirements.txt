@@ -1,0 +1,9 @@
+streamlit
+geopy
+requests
+folium
+streamlit-folium
+plotly
+numpy
+geographiclib
+geocoder
